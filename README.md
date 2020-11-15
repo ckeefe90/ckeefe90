@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an aspiring full-stack software engineer that has been creating projects throughout my Thinkful coding bootcamp. 
+
+## I am experienced with:
+- Javascript
+- ReactJS
+- NodeJS
+- PostgreSQL
